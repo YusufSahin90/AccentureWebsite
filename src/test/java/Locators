@@ -1,0 +1,107 @@
+
+cookieszulassen
+//button[contains(text(), 'Alle Cookies zulassen')]
+
+country change
+.country-icon
+
+usa(english)
+//a[contains(text(), 'USA (English)')]
+
+germany(german)
+//a[contains(text(), 'Germany (German)')]
+
+Anmelden
+.signin.ucase
+
+sign in to your accenture profilo yazisi, assert ile dogrulamak icin
+#loginContainer
+
+
+
+ıdeen, die wirken
+.nav-bar-menu.nav-bar-menu-1>*:nth-last-child(2)
+
+die kraft des wandels
+.nav-bar-menu.nav-bar-menu-2>*:nth-last-child(2)
+
+bewirb dich und gestallte die zukunft mit uns
+.nav-bar-menu.nav-bar-menu-3>*:nth-last-child(2)
+
+gemeinsame erfolgsgeschichten
+.nav-bar-menu.nav-bar-menu-4>*:nth-last-child(2)
+
+leading through change
+.nav-bar-menu.nav-bar-menu-5>*:nth-last-child(2)
+
+accenture logosu
+.gh-item.acn-logo>img
+
+Insights
+.primary-link-container>*:nth-child(1)
+
+Services
+.primary-link-container>*:nth-child(2)
+
+branchen
+.primary-link-container>*:nth-child(3)
+
+karriere
+.primary-link-container>*:nth-child(4)
+
+jobs finden und bewerben
+//a[text()='Jobs finden und bewerben']
+
+sucheinput
+input[id='job-search-hero-bar']
+
+suchebutton
+.button-container>button
+
+juniorsoftwareengineer
+//h3[text()='Junior Software Engineer (all genders)']
+
+über accenture
+.primary-link-container>*:nth-child(5)
+
+scrollen
+.cta-scroll.position-1.isactive
+
+7900 patente
+//label[text()='7.900 ']
+
+//label[text()='537.000']
+
+Standorte
+//a[text()='Standorte']
+
+über accenture in deutschland
+//a[text()='Über Accenture in Deutschland']
+
+wer wir sind
+//h2[text()='Wer wir sind ']
+
+Accenture in Zahlen
+//h2[text()='Accenture in Zahlen']
+
+Ausgezeichnete Arbeit
+//h2[text()='Ausgezeichnete Arbeit']
+
+Titelverteidiger
+//h2[text()='Titelverteidiger']
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
